@@ -1,4 +1,4 @@
-// +build !linux,!windows,!freebsd
+// +build !linux,!windows,!freebsd,!darwin
 
 package osl
 
